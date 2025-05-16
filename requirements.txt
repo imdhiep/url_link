@@ -1,0 +1,6 @@
+streamlit
+paddleocr
+pillow
+openpyxl
+requests
+numpy
